@@ -1,0 +1,24 @@
+{
+  "name": "service-api",
+  "version": "0.0.0",
+  "description": "serviceapi",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "set UT=true && jest --config=./jest.config.js"
+  },
+  "author": {
+    "name": "Rajendra"
+  },
+  "devDependencies": {
+    "jest": "^27.2.4",
+    "supertest": "^6.1.6"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.5",
+    "express": "^4.16.2",
+    "fuzzysort": "^1.1.4",
+    "mssql": "^4.1.0"
+  }
+}
