@@ -36,3 +36,9 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## Fuzzy search 
 try entering course name like computr or chemicl, the response you will get matching with computer, chemical respectively
+
+
+![fuzzy_search](https://user-images.githubusercontent.com/18664729/135894658-75cac389-5eb8-4bad-8e13-8eac510502c3.JPG)
+
+
+
